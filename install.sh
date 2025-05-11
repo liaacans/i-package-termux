@@ -49,6 +49,9 @@ clear
 pkg upgrade nodejs -y
 clear
 
+pkg install yarn -y
+clear
+
 pip install mechanize
 clear
 
